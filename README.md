@@ -1,6 +1,6 @@
 # mega-code-bot
 
-[![Playlist YouTube - mega-code-bot](https://img.youtube.com/vi/NJtmT0ITnPI/maxresdefault.jpg)](https://youtube.com/playlist?list=PLz9bzqrAthDksDrwxE-RmyaeCo6IR6ft7&si=htigXOrWUPg_LjcC)
+[![Playlist YouTube - mega-widget-sys](https://img.youtube.com/vi/NJtmT0ITnPI/maxresdefault.jpg)](https://youtube.com/playlist?list=PLz9bzqrAthDmzypbgYuG70aHP5nWx-4pR&si=HjxvEIG3udPVQr4B)
 
 ## 📋 Descrição
 
