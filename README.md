@@ -41,13 +41,8 @@ O gerador tem limitacao! As pastas e arquivos definidos na camada CONFIGURATION 
 
 ## 👨‍💻 Créditos
 
-**Desenvolvido por:** Kauan Dev (ipseitycode)
+**Desenvolvido por:** Cauan Dev (ipseitycode)
 
 Este projeto foi desenvolvido do zero e está sendo disponibilizado para a comunidade.
-
-## 📄 Licença
-
-Todos os direitos reservados ao desenvolvedor.
-
 
 Para mais informações, dúvidas ou sugestões, confira a playlist completa no YouTube!
